@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-05T00:44:15 IST" name="Suite" finished-at="2023-09-05T00:45:16 IST" duration-ms="60976">
+  <suite started-at="2023-09-06T19:47:51 IST" name="Suite" finished-at="2023-09-06T19:48:19 IST" duration-ms="28411">
     <groups>
     </groups>
-    <test started-at="2023-09-05T00:44:15 IST" name="Test" finished-at="2023-09-05T00:45:16 IST" duration-ms="60976">
+    <test started-at="2023-09-06T19:47:51 IST" name="Test" finished-at="2023-09-06T19:48:19 IST" duration-ms="28411">
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase006">
-        <test-method signature="product()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase006@776aec5c]" started-at="2023-09-05T00:44:49 IST" name="product" finished-at="2023-09-05T00:45:06 IST" duration-ms="16845" status="PASS">
+        <test-method signature="product()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase006@202b0582]" started-at="2023-09-06T19:47:59 IST" name="product" finished-at="2023-09-06T19:48:11 IST" duration-ms="12038" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- product -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase006 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007">
-        <test-method signature="cart()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007@1d296da]" started-at="2023-09-05T00:44:49 IST" name="cart" finished-at="2023-09-05T00:45:16 IST" duration-ms="26551" status="PASS">
+        <test-method signature="cart()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007@235ecd9f]" started-at="2023-09-06T19:48:01 IST" name="cart" finished-at="2023-09-06T19:48:19 IST" duration-ms="18850" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cart -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase001">
-        <test-method signature="singup()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase001@62379589]" started-at="2023-09-05T00:44:15 IST" name="singup" finished-at="2023-09-05T00:45:00 IST" duration-ms="44825" status="PASS">
+        <test-method signature="singup()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase001@54422e18]" started-at="2023-09-06T19:47:51 IST" name="singup" finished-at="2023-09-06T19:48:09 IST" duration-ms="18187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- singup -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase001 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase002">
-        <test-method signature="login()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase002@4afcd809]" started-at="2023-09-05T00:44:15 IST" name="login" finished-at="2023-09-05T00:44:52 IST" duration-ms="37562" status="PASS">
+        <test-method signature="login()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase002@117159c0]" started-at="2023-09-06T19:47:51 IST" name="login" finished-at="2023-09-06T19:48:06 IST" duration-ms="15126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase002 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase003">
-        <test-method signature="home()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase003@175c2241]" started-at="2023-09-05T00:44:15 IST" name="home" finished-at="2023-09-05T00:44:49 IST" duration-ms="34284" status="PASS">
+        <test-method signature="home()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase003@3e27ba32]" started-at="2023-09-06T19:47:51 IST" name="home" finished-at="2023-09-06T19:48:02 IST" duration-ms="10796" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- home -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase003 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase004">
-        <test-method signature="contact()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase004@5bf0d49]" started-at="2023-09-05T00:44:15 IST" name="contact" finished-at="2023-09-05T00:44:49 IST" duration-ms="34283" status="PASS">
+        <test-method signature="contact()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase004@7ef82753]" started-at="2023-09-06T19:47:51 IST" name="contact" finished-at="2023-09-06T19:48:00 IST" duration-ms="9484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contact -->
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase004 -->
       <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase005">
-        <test-method signature="about()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase005@5b7a5baa]" started-at="2023-09-05T00:44:15 IST" name="about" finished-at="2023-09-05T00:44:58 IST" duration-ms="43551" status="PASS">
+        <test-method signature="about()[pri:0, instance:com.simplilearn.TestingMedicareWebApplication.Testcases$testcase005@3b0fe47a]" started-at="2023-09-06T19:47:51 IST" name="about" finished-at="2023-09-06T19:47:59 IST" duration-ms="8299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- about -->

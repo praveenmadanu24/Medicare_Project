@@ -13,11 +13,6 @@
           <include name="singup"/>
         </methods>
       </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase001 -->
-      <class name="com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007">
-        <methods>
-          <include name="cart"/>
-        </methods>
-      </class> <!-- com.simplilearn.TestingMedicareWebApplication.Testcases$testcase007 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
