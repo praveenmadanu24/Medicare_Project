@@ -1,13 +1,13 @@
 {
 	"info": {
-		"_postman_id": "b94bd12a-dc6d-41f5-874b-16cc37262bd0",
+		"_postman_id": "14f0c79f-7fda-43a3-bd6f-afe158ea5b18",
 		"name": "Medicare_API_Testing",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
-		"_exporter_id": "28292242"
+		"_exporter_id": "29558027"
 	},
 	"item": [
 		{
-			"name": "http://localhost:8080/medicare/show/all/products",
+			"name": "http://localhost:9090/medicare/show/all/products",
 			"event": [
 				{
 					"listen": "test",
@@ -51,12 +51,12 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://localhost:8080/medicare/show/category/1/products"
+				"url": "http://localhost:9090/medicare/show/category/1/products"
 			},
 			"response": []
 		},
 		{
-			"name": "http://localhost:8080/medicare/show/all/products",
+			"name": "http://localhost:9090/medicare/show/all/products",
 			"event": [
 				{
 					"listen": "test",
@@ -73,7 +73,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://localhost:8080/medicare/show/all/products"
+				"url": "http://localhost:9090/medicare/show/all/products"
 			},
 			"response": []
 		}
